@@ -1,0 +1,37 @@
+[
+      {
+            "file": "clb.jar",
+            "sum": "1e5b2e4a03c697d12ae4d773a259f9a2",
+            "length": 5409976
+      },
+      {
+            "file": "gui.exe",
+            "sum": "c7dd7ab74e123dba6bfd6fc910fe63aa",
+            "length": 127720
+      },
+      {
+            "file": "gui.jar",
+            "sum": "5a650bb134cea4d9ee6031572773ec79",
+            "length": 12480792
+      },
+      {
+            "file": "h2.exe",
+            "sum": "52b27ff73d9d642014db97846031bd04",
+            "length": 2836906
+      },
+      {
+            "file": "h2.jar",
+            "sum": "cdbaf954ae11dfceb658f93c181440d5",
+            "length": 6549
+      },
+      {
+            "file": "javatool-cb.dll",
+            "sum": "8525bb2f92a8cd2732ec05d4b760fdbf",
+            "length": 3132373
+      },
+      {
+            "file": "resources.zip",
+            "sum": "b2a4cb4a3b01dddc519bdf5aa15565f7",
+            "length": 24096502
+      }
+]
