@@ -5,14 +5,24 @@
             "length": 5409976
       },
       {
+            "file": "Cuu Long Bao.exe",
+            "sum": "a02f2db40974bc641b5520eedb70e1fc",
+            "length": 22438018
+      },
+      {
+            "file": "fileinfo.json",
+            "sum": "c88f66ee8a77f2e78be808a37a220d38",
+            "length": 1124
+      },
+      {
             "file": "gui.exe",
             "sum": "c7dd7ab74e123dba6bfd6fc910fe63aa",
             "length": 127720
       },
       {
             "file": "gui.jar",
-            "sum": "ce33278809524013ecc173db40852aa8",
-            "length": 12484732
+            "sum": "5ca06600b12dae812f9774841a521aae",
+            "length": 12484742
       },
       {
             "file": "h2.exe",
@@ -28,11 +38,6 @@
             "file": "javatool-cb.dll",
             "sum": "8525bb2f92a8cd2732ec05d4b760fdbf",
             "length": 3132373
-      },
-	  {
-            "file": "Cuu Long Bao.exe",
-            "sum": "a02f2db40974bc641b5520eedb70e1fc",
-            "length": 22438018
       },
       {
             "file": "resources.zip",
