@@ -6,12 +6,12 @@
       },
       {
             "file": "Cuu Long Bao.exe",
-            "sum": "3093d50ec43d6dc608b4a270ff2b25fc",
-            "length": 18058707
+            "sum": "f412ef1e3563de1e1519e503b61e7530",
+            "length": 23677545
       },
       {
             "file": "fileinfo.json",
-            "sum": "cbf15afaab873c70540044445e54a852",
+            "sum": "faab5cdd5e14fe34bf9bc2b4b7c730b6",
             "length": 1268
       },
       {
@@ -21,8 +21,8 @@
       },
       {
             "file": "gui.jar",
-            "sum": "12da37e3870fca5f758853f36ce1649c",
-            "length": 12486344
+            "sum": "02a2ec5a566c5582dc41900e2db1b636",
+            "length": 12486443
       },
       {
             "file": "h2.exe",
