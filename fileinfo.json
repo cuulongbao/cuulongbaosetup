@@ -11,7 +11,7 @@
       },
       {
             "file": "fileinfo.json",
-            "sum": "85b84bdbe2c289b7d81c8b76ec402e54",
+            "sum": "f4667526fd1b96f94d21bb5e8aec5bc3",
             "length": 1268
       },
       {
@@ -31,8 +31,8 @@
       },
       {
             "file": "h2.jar",
-            "sum": "cdbaf954ae11dfceb658f93c181440d5",
-            "length": 6549
+            "sum": "47bff3275bd6935318cb3fa18a699ffe",
+            "length": 6760
       },
       {
             "file": "javatool-cb.dll",
