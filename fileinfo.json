@@ -11,7 +11,7 @@
       },
       {
             "file": "fileinfo.json",
-            "sum": "f4667526fd1b96f94d21bb5e8aec5bc3",
+            "sum": "5aebc2241d52cc2ce09ea3dac3549b7f",
             "length": 1268
       },
       {
@@ -21,8 +21,8 @@
       },
       {
             "file": "gui.jar",
-            "sum": "3923c4b364010269e30893a502797a9c",
-            "length": 12493349
+            "sum": "4f54bbec8938be77f8b324cfa23fcd2f",
+            "length": 12493548
       },
       {
             "file": "h2.exe",
@@ -31,8 +31,8 @@
       },
       {
             "file": "h2.jar",
-            "sum": "47bff3275bd6935318cb3fa18a699ffe",
-            "length": 6760
+            "sum": "40825e6600f13f3fa0721bfb72ee8cb9",
+            "length": 6758
       },
       {
             "file": "javatool-cb.dll",
