@@ -11,7 +11,7 @@
       },
       {
             "file": "fileinfo.json",
-            "sum": "2ee852a7b1dfd8a5f95dfde016d4b91f",
+            "sum": "0d827318fb4f2fc2b2a292dff32dada4",
             "length": 1268
       },
       {
@@ -21,8 +21,8 @@
       },
       {
             "file": "gui.jar",
-            "sum": "af4b89e83913bd65abae9c8dc65ff52d",
-            "length": 17356387
+            "sum": "14378cc9ffd6f9b6e719201a661ab93e",
+            "length": 17356388
       },
       {
             "file": "h2.exe",
