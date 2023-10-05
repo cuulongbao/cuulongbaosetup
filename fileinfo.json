@@ -1,8 +1,8 @@
 [
       {
             "file": "clb.jar",
-            "sum": "0015c55e8df4242a9e6e8d8fed870d6f",
-            "length": 5417001
+            "sum": "f2883d34ff84277d17820a4165bbe39f",
+            "length": 5417251
       },
       {
             "file": "Cuu Long Bao.exe",
@@ -11,7 +11,7 @@
       },
       {
             "file": "fileinfo.json",
-            "sum": "791c63e839975ab2528a22c877c2573e",
+            "sum": "d0649985b56bb34d0a8c4a77d05b9875",
             "length": 1268
       },
       {
@@ -21,8 +21,8 @@
       },
       {
             "file": "gui.jar",
-            "sum": "3379ef7afa84337b54f897290a8557e8",
-            "length": 13492394
+            "sum": "7a3002a4625de739463a4564d84e1c9c",
+            "length": 13492650
       },
       {
             "file": "h2.exe",
